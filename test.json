@@ -1,0 +1,12 @@
+{"result":[{"headrow":{"rowno":{"hide":"true"},"axrowtype":{"hide":"true","width":"80","dec":"0","type":"c"},"axp__font":{"axp__font":"axp__fontdetails","hide":"true","width":"80","dec":"0","type":"c"},"uhid":{"uhid":"UHID","width":"83","dec":"0","align":"Left","type":"c","hide":"false"},"age":{"age":"Age","width":"39","dec":"0","align":"Center","type":"n","hide":"false"},"agetype":{"agetype":"Age
+Type","width":"78","dec":"0","align":"Center","type":"c","hide":"false"},"patient_name":{"patient_name":"Patient
+Name","width":"140","dec":"0","align":"Left","type":"c","hide":"false"},"mobile_primary":{"mobile_primary":"Mobile
+No.","width":"89","dec":"0","align":"Left","type":"c","hide":"false"},"address":{"address":"Address","width":"182","dec":"0","align":"Left","type":"c","hide":"false"},"column1":{"column1":"Column1","width":"80","dec":"0","align":"Left","type":"c","hide":"true"},"reccount":"5","totalrows":"5","datarows":"5"},
+
+"row":[{"rowno":"1","uhid":"170300820","age":"3","agetype":"Years","patient_name":"KEVIN
+JONAS","mobile_primary":"9840918895","address":"Chennai","column1":"0"},{"rowno":"2","uhid":"161201154","age":"26","agetype":"Years","patient_name":"SELVA
+RANI. J","mobile_primary":"9840918895","address":"No:6\/4a,Karaiyar Koil
+Street,","column1":"0"},{"rowno":"3","uhid":"161200914","age":"47","agetype":"Years","patient_name":"JABAMALAIMARY.W","mobile_primary":"9840918895","address":"Karaiyar
+Koil Street,","column1":"0"},{"rowno":"4","uhid":"160604338","age":"50","agetype":"Years","patient_name":"WILLIAM
+IRUDHAYARAJ","mobile_primary":"9840918895","address":"Chennai","column1":"0"},{"rowno":"5","uhid":"160300612","age":"24","agetype":"Years","patient_name":"SELVARANI
+W","mobile_primary":"9840918895","address":"No 6\/4b Karaiyar Koil Street,","column1":"0"}]}]}
